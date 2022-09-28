@@ -1,4 +1,4 @@
-# surpoint jump page
+# Surp"oint jump page
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -23,7 +23,7 @@ The following animation demonstrates the application functionality:
 
 ## Installation
 
-For link to Web App click [here]()
+For link to Web App click [here](https://msas12.github.io/JumpPage/)
 
 ## Usage
 
