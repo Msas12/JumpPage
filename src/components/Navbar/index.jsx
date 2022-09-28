@@ -6,7 +6,7 @@ function NavbarBrand() {
   return (
 
       <Navbar bg="dark" variant="dark">
-        <Container className="justify-content-left">
+        <Container className="justify-content-center">
           <Navbar.Brand href="#home">
               <img
                 alt=""
