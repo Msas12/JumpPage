@@ -1,0 +1,52 @@
+import React from "react";
+import Card from "../Card";
+import {
+    faInstagram,
+    faEtsy,
+  } from "@fortawesome/free-brands-svg-icons";
+  import {
+    faEnvelope,
+  } from "@fortawesome/free-solid-svg-icons";
+
+
+const links = [
+  {
+    id: 1,
+    icon: faInstagram,
+    name: "@surpointclothing",
+    webLink: "https://www.instagram.com/surpointclothing/",
+  },
+  {
+    id: 3,
+    icon: faEtsy,
+    name: "surpointclothing",
+    webLink: "https://www.etsy.com",
+  },
+  {
+    id: 2,
+    icon: faEnvelope,
+    name: "surpointclothing@gmail.com",
+    webLink: "surpointclothing@gmail.com",
+  },
+
+  
+];
+
+function Links() {
+  return (
+    <div className="container">
+      <div className="row g-4 mt-2 mx-1">
+        {links.map((link) => (
+          <Card
+            key={link.id}
+            icon={link.icon}
+            name={link.name}
+            webLink={link.webLink}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}
+
+export default Links;
