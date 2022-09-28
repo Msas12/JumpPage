@@ -1,7 +1,7 @@
 {
   "main.css": "/JumpPage/static/css/main.cd92bc0d.chunk.css",
-  "main.js": "/JumpPage/static/js/main.3a584898.chunk.js",
-  "main.js.map": "/JumpPage/static/js/main.3a584898.chunk.js.map",
+  "main.js": "/JumpPage/static/js/main.8006b4df.chunk.js",
+  "main.js.map": "/JumpPage/static/js/main.8006b4df.chunk.js.map",
   "static/js/1.ce47ab81.chunk.js": "/JumpPage/static/js/1.ce47ab81.chunk.js",
   "static/js/1.ce47ab81.chunk.js.map": "/JumpPage/static/js/1.ce47ab81.chunk.js.map",
   "static/css/2.0d887bec.chunk.css": "/JumpPage/static/css/2.0d887bec.chunk.css",
@@ -9,9 +9,9 @@
   "static/js/2.7ccd5bea.chunk.js.map": "/JumpPage/static/js/2.7ccd5bea.chunk.js.map",
   "runtime~main.js": "/JumpPage/static/js/runtime~main.4e60edc8.js",
   "runtime~main.js.map": "/JumpPage/static/js/runtime~main.4e60edc8.js.map",
-  "static/css/2.0d887bec.chunk.css.map": "/JumpPage/static/css/2.0d887bec.chunk.css.map",
   "static/css/main.cd92bc0d.chunk.css.map": "/JumpPage/static/css/main.cd92bc0d.chunk.css.map",
+  "static/css/2.0d887bec.chunk.css.map": "/JumpPage/static/css/2.0d887bec.chunk.css.map",
   "index.html": "/JumpPage/index.html",
-  "precache-manifest.836d48e068003b8405012cb04e79861e.js": "/JumpPage/precache-manifest.836d48e068003b8405012cb04e79861e.js",
+  "precache-manifest.cf58e85eb7efe19c7922ca2b21d66bf8.js": "/JumpPage/precache-manifest.cf58e85eb7efe19c7922ca2b21d66bf8.js",
   "service-worker.js": "/JumpPage/service-worker.js"
 }

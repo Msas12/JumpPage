@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3a584898e63657efb6bd",
+    "revision": "8006b4df9f4919469684",
     "url": "/JumpPage/static/css/main.cd92bc0d.chunk.css"
   },
   {
-    "revision": "3a584898e63657efb6bd",
-    "url": "/JumpPage/static/js/main.3a584898.chunk.js"
+    "revision": "8006b4df9f4919469684",
+    "url": "/JumpPage/static/js/main.8006b4df.chunk.js"
   },
   {
     "revision": "ce47ab81b35290e2776b",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/JumpPage/static/js/runtime~main.4e60edc8.js"
   },
   {
-    "revision": "160ca89bdbfb669422129fb067256e70",
+    "revision": "0525b9b0d2323ecf97c106d5958bd153",
     "url": "/JumpPage/index.html"
   }
 ];
