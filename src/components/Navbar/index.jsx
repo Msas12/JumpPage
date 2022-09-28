@@ -10,7 +10,7 @@ function NavbarBrand() {
           <Navbar.Brand href="#home">
               <img
                 alt=""
-                src="../imgs/surpoint2.svg"
+                src="../imgs/surpoint.svg"
                 width="100"
                 height="100"
               />{''}
