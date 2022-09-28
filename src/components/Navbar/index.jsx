@@ -6,13 +6,13 @@ function NavbarBrand() {
   return (
 
       <Navbar bg="dark" variant="dark">
-        <Container className="justify-content-left">
+        <Container className="justify-content-center">
           <Navbar.Brand href="#home">
               <img
                 alt=""
-                src="../imgs/surpoint2.svg"
-                width="100"
-                height="100"
+                src="../imgs/Surpoint (3).png"
+                width="200"
+                height="150"
               />{''}
             </Navbar.Brand>
         </Container>
