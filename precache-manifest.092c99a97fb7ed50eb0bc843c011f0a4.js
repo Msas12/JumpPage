@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/JumpPage/static/js/runtime~main.66017e5f.js"
   },
   {
-    "revision": "01b2fb02f19f40eae44dc7c700d53eee",
+    "revision": "e8fc0fc984dd9a71008da3e717d47816",
     "url": "/JumpPage/index.html"
   }
 ];
