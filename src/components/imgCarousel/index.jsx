@@ -3,8 +3,8 @@ import Carousel from 'react-bootstrap/Carousel';
 
 function PhotoCarousel() {
   return (
-    <Carousel>
-      <Carousel.Item interval={1000}>
+    <Carousel variant="dark">
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
           src="imgs/1.svg"
@@ -13,7 +13,7 @@ function PhotoCarousel() {
       </Carousel.Item>
 
 
-      <Carousel.Item interval={1000}>
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
           src="imgs/2.svg"
@@ -21,7 +21,7 @@ function PhotoCarousel() {
         />
       </Carousel.Item>
 
-      <Carousel.Item interval={1000}>
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
           src="imgs/3.svg"
@@ -29,7 +29,7 @@ function PhotoCarousel() {
         />
       </Carousel.Item>
 
-      <Carousel.Item interval={1000}>
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
           src="imgs/4.svg"
@@ -37,7 +37,7 @@ function PhotoCarousel() {
         />
       </Carousel.Item>
 
-      <Carousel.Item interval={1000}>
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
           src="imgs/5.svg"
@@ -45,7 +45,7 @@ function PhotoCarousel() {
         />
       </Carousel.Item>
 
-      <Carousel.Item interval={1000}>
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
           src="imgs/6.svg"
@@ -53,7 +53,7 @@ function PhotoCarousel() {
         />
       </Carousel.Item>
 
-      <Carousel.Item interval={1000}>
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
           src="imgs/9.svg"
@@ -61,7 +61,7 @@ function PhotoCarousel() {
         />
       </Carousel.Item>
 
-      <Carousel.Item interval={1000}>
+      <Carousel.Item interval={1500}>
         <img
           className="d-block w-100"
           src="imgs/10.svg"

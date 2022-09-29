@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 
 
 const Card = (props) => (
-          <Button className="shadow p-3 mb-2 rounded " href={props.webLink} bg="dark" variant="dark">
+          <Button className={props.class} href={props.webLink} bg="dark" variant="dark">
             <Row xs="auto">
               <Col className="mt-1">
               <FontAwesomeIcon className="fab fa-beat fa-2x" icon={props.icon} />
