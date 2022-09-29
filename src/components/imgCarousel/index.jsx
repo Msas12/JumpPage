@@ -58,7 +58,7 @@ function PhotoCarousel() {
             <Carousel.Item interval={1500}>
                 <img
                 className="d-block w-100"
-                src="imgs/9.svg"
+                src="imgs/8.svg"
                 alt="Seventh slide"
                 />
             </Carousel.Item>
@@ -66,8 +66,32 @@ function PhotoCarousel() {
             <Carousel.Item interval={1500}>
                 <img
                 className="d-block w-100"
-                src="imgs/10.svg"
+                src="imgs/9.svg"
                 alt="Eighth slide"
+                />
+            </Carousel.Item>
+
+            <Carousel.Item interval={1500}>
+                <img
+                className="d-block w-100"
+                src="imgs/10.svg"
+                alt="Ninth slide"
+                />
+            </Carousel.Item>
+
+            <Carousel.Item interval={1500}>
+                <img
+                className="d-block w-100"
+                src="imgs/11.svg"
+                alt="Tenth slide"
+                />
+            </Carousel.Item>
+
+            <Carousel.Item interval={1500}>
+                <img
+                className="d-block w-100"
+                src="imgs/12.svg"
+                alt="Eleventh slide"
                 />
             </Carousel.Item>
 
