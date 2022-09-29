@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 function NavbarBrand() {
   return (
 
-      <Navbar bg="dark" variant="dark">
+      <Navbar sticky="top" bg="dark" variant="dark">
         <Container className="justify-content-center">
           <Navbar.Brand href="#home">
               <img

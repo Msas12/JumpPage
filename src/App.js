@@ -2,6 +2,7 @@ import React from "react";
 import './App.css';
 import Navbar from "./components/Navbar";
 import CardLinks from "./components/CardLinks";
+import PhotoCarousel from "./components/imgCarousel";
 
 function App() {
   return (
@@ -9,6 +10,10 @@ function App() {
        <div>
           <Navbar />
           <CardLinks />
+          
+          <br></br>
+
+          <PhotoCarousel />
         </div>
     </div>
   );
