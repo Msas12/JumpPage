@@ -22,7 +22,7 @@ const links = [
     class: "shadow p-3 mb-2 rounded",
     icon: faEtsy,
     name: "surpointclothing",
-    webLink: "https://www.etsy.com",
+    webLink: "https://www.etsy.com/shop/surpointclothing",
   },
   {
     id: 2,
