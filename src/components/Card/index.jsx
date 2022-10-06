@@ -7,10 +7,10 @@ import Col from 'react-bootstrap/Col';
 
 
 const Card = (props) => (
-          <Button className={props.class} href={props.webLink} bg="dark" variant="dark">
+          <Button className={props.class} variant={props.variant} href={props.webLink}>
             <Row xs="auto">
               <Col className="mt-1">
-              <FontAwesomeIcon className="fab fa-beat fa-2x" icon={props.icon} />
+              <FontAwesomeIcon className="fab fa-2x" icon={props.icon} />
               </Col>
 
               <Col className="mt-2 mx-auto">

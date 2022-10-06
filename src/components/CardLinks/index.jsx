@@ -12,23 +12,26 @@ import {
 const links = [
   {
     id: 1,
-    class: "shadow p-3 mb-2 rounded",
+    class: "shadow p-3 mb-2 rounded matchgrey outline-light",
+    variant: "outline-light",
     icon: faInstagram,
-    name: "@surpointclothing",
+    name: "Check us out on Instagram",
     webLink: "https://www.instagram.com/surpointclothing/",
   },
   {
     id: 3,
-    class: "shadow p-3 mb-2 rounded",
+    class: "shadow p-3 mb-2 rounded matchgrey outline-light",
+    variant: "outline-light",
     icon: faEtsy,
-    name: "surpointclothing",
+    name: "Etsy Shop",
     webLink: "https://www.etsy.com/shop/surpointclothing",
   },
   {
     id: 2,
-    class: "mailto shadow p-3 mb-2 rounded",
+    class: "mailto shadow p-3 mb-2 rounded matchgrey outline-light",
+    variant: "outline-light",
     icon: faEnvelope,
-    name: "surpointclothing@gmail.com",
+    name: "Email Us",
     webLink: "mailto:surpointclothing@gmail.com",
   },
 
@@ -43,6 +46,7 @@ function Links() {
           <Card
             key={link.id}
             class={link.class}
+            variant={link.variant}
             icon={link.icon}
             name={link.name}
             webLink={link.webLink}
