@@ -15,7 +15,7 @@ const links = [
     class: "shadow p-3 mb-2 rounded matchgrey outline-light",
     variant: "outline-light",
     icon: faInstagram,
-    name: "Check us out on Instagram",
+    name: "Instagram",
     webLink: "https://www.instagram.com/surpointclothing/",
   },
   {
@@ -23,7 +23,7 @@ const links = [
     class: "shadow p-3 mb-2 rounded matchgrey outline-light",
     variant: "outline-light",
     icon: faEtsy,
-    name: "Etsy Shop",
+    name: "Etsy",
     webLink: "https://www.etsy.com/shop/surpointclothing",
   },
   {
